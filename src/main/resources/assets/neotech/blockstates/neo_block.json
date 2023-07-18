@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "neotech:block/neo_block"
+    }
+  }
+}
